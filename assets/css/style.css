@@ -1,13 +1,19 @@
+/* CSS reset */
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
+/* generics */
+
 body {
     font-family: Arial, Helvetica, sans-serif;
     background-color: #F6F8FA;
 }
+
+/* header */
 
 header {
     padding: 15px;
@@ -24,6 +30,8 @@ header img {
     height: 50px;
     vertical-align: middle;
 }
+
+/* container */
 
 .container {
     max-width: 800px;
@@ -94,6 +102,8 @@ div.tasks {
     padding-bottom: 10px;
 }
 
+/* tag dei task */
+
 .quarter {
     background-color: #A172E5;
 }
@@ -114,10 +124,14 @@ div.tasks {
     background-color: #AACA00;
 }
 
+/* crocetta rossa */
+
 .cross {
     color: #B05F70;
     border-color: #B05F70;
 }
+
+/* padding bottom */
 
 section.container {
     margin-bottom: 20px;
