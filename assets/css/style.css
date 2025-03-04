@@ -59,3 +59,20 @@ section.container {
 section div ul {
     list-style: none;
 }
+
+#tendina {
+    font-weight: 900;
+    font-size: 1.2rem;
+    padding-bottom: 10px;
+}
+
+#check {
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+    line-height: 20px;
+    text-align: center;
+    color: #5AA58F;
+    border: 1px solid #5AA58F;
+    border-radius: 50%;
+}
