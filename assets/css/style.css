@@ -93,3 +93,23 @@ div.tasks {
 .nometask {
     padding-bottom: 10px;
 }
+
+.quarter {
+    background-color: #A172E5;
+}
+
+.recruiting {
+    background-color: #22C9A9;
+}
+
+.mobile {
+    background-color: #FC9D00;
+}
+
+.web {
+    background-color: #EA59AB;
+}
+
+.sales {
+    background-color: #AACA00;
+}
