@@ -136,3 +136,7 @@ div.tasks {
 section.container {
     margin-bottom: 20px;
 }
+
+li {
+    margin-bottom: 20px;
+}
